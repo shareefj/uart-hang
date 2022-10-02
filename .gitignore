@@ -6,3 +6,8 @@ robot_output.xml
 
 # artifacts directory
 artifacts
+
+*.elf
+*.bin
+*.ld
+src/bin
